@@ -1,0 +1,13 @@
+html{scroll-behavior: smooth;}
+body{background: linear-gradient(white, rgb(206, 199, 199), white);
+ font-family: Arial, Helvetica, sans-serif;
+text-align: center;}
+h2{background: linear-gradient(rgb(185, 223, 240), rgb(183, 215, 183), rgb(185, 223, 240));
+padding: 15px;
+border-radius: 75%;
+width: 50%;
+margin: auto;
+box-shadow: 0 5px 10px black;}
+table{width: 100%;}
+img{border-radius: 10px;
+box-shadow: 0 5px 10px black;}
